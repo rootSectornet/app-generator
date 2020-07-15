@@ -1,7 +1,6 @@
 <h1>Apps Generator</h1>
 ```
 this my experiment project about generate application without coding.
-
 ```
 
 
