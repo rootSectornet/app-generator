@@ -1,0 +1,18 @@
+{
+  "name": "candahar-builder",
+  "version": "1.0.0",
+  "description": "builder-node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "builder-app"
+  ],
+  "author": "Tedi Susanto",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.4.0",
+    "node-cmd": "^3.0.0"
+  }
+}
