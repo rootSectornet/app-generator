@@ -1,8 +1,8 @@
 <h1>Apps Generator</h1>
-`
+```
 this my experiment project about generate application without coding.
 
-`
+```
 
 
 # Technology
@@ -17,8 +17,8 @@ this my experiment project about generate application without coding.
 
 
 # Licensi
-`
+```
 ISC
 @author Tedi Susanto
 
-`
+```
